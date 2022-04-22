@@ -4,7 +4,6 @@ landingzone = {
     level               = "level0"
     key                 = "tf-cafes-corp"
   }
-}
 
 resource_groups = {
   vm_region1 = {
