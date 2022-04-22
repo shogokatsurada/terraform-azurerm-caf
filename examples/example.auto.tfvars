@@ -1,3 +1,11 @@
+landingzone = {
+    backend_type        = "azurerm"
+    global_settings_key = "launchpad"
+    level               = "level0"
+    key                 = "tf-cafes-corp"
+  }
+}
+
 resource_groups = {
   vm_region1 = {
     name = "example-virtual-machine-rg1"
